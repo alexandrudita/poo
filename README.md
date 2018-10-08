@@ -1,1 +1,3 @@
-Seminar POO
+# OOP 
+
+Object Oriented Programming Labs
