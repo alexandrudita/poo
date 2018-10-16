@@ -1,0 +1,3 @@
+click dreapta proiect->Properties -> expandare optiunea C/C++ -> Preprocessor-> panel dreapta prima optiune (Preprocessor Definitions) -> click pe dropdown -> Edit -> in prima fereastra, scrieti eroare _CRT_SECURE_NO_WARNINGS.
+
+tutorial youtube: https://www.youtube.com/watch?v=NZW7djD3mH8
