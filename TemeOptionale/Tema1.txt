@@ -1,0 +1,3 @@
+Pentru clasa Hotel (verifica seminar 3) sa se implementeze urmatoarele cerinte: 
+1. Sa se creeze un constructor cu toti parametri. 
+2. Sa se testeze in main constructorul de mai sus, atat pentru variabile normale, cat si pentru pointer.
