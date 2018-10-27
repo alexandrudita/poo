@@ -1,0 +1,18 @@
+Cerinte:
+
+1. Sa se implementeze getteri si setter pentru celelalte atribute ale clasei Hotel din exemplul de seminar. 
+2. Sa se defineasca o clasa, dintr-un domeniu ales de student, astfel incat urmatoarele cerinte sa fie respectate:  
+	a. Sa se defineasca cel putin 7 atribute ale clasei.
+	b. Cel putin un atribut al clasei sa fie constant.
+	c. Cel putin un atribut al clasei sa fie float.
+	d. Cel putin un atribut al clasei sa fie alocat dinamic.  
+	e. Sa se defineasca constructorul default.
+	f. Sa se defineasca constructorul cu toti parametrii. 
+	g. Sa se defineasca constructorul cu valori implicite.
+	h. Sa se defineasca constructorul de copiere.
+	i. Sa se defineasca pentru fiecare atribut al clasei metodele get si set.
+	j. Sa se creeze o metoda de afisare a unui obiect la consola.
+	k. In functia main, sa se creeze un test pentru fiecare functie membra a clasei.
+	l. Functia main sa ruleze fara erori de compilare.
+	m. In functia main, sa se initializeze un vector al clasei alocat dinamic.
+	n. In functia main, sa se parcurga vectorului de la punctul anterior si sa se calculeze media aritmetica a atributului de tip float.
