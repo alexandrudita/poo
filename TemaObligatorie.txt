@@ -1,0 +1,26 @@
+
+class Produs {
+
+private: 
+	const int id;
+	char* nume;
+	float pret; 
+	char unitateMasura[10];
+	static int nr_produse;
+
+public:
+	Produs();
+	Produs(char* nume, float pret, char unitateMasura[10]);
+	Produs(const Produs& copie);
+	~Produs();
+	int getId();
+	void setNume(char* v_nume);
+	char* getNume();
+	void setPret(float v_pret);
+	float getPret();
+	void setUnitateMasura(char v_unitateMasura[10]);
+	char* getUnitateMasura();
+	Produs& operator=(const Produs& produs);
+	friend ostream& operator<<(ostream& out, Produs& produs);
+	friend istream& operator>>(istream& in, Produs& produs);
+};
