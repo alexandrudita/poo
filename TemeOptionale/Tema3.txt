@@ -1,0 +1,39 @@
+Buna ziua, 
+
+Am gasit urmatoarea problema pe care o puteti lucra cand doriti. 
+In cadrul acestui exercitiu nu am specificat ce elemente ar trebui sa folositi, este un alt mod de lucru, care implica sa veniti singuri cu o solutie. 
+Singura conditie este sa utilizati conceptele de POO, nu cele C.
+Scopul acestui exercitiu este sa obtineti o solutie cat mai eficienta, de aceea, va rog sa nu va opriti la prima solutie pe care o gasiti.
+
+Pe viitor o sa mai caut si alte probleme, care sa aibe un grad de dificultate mai mare. Dar acest lucru se va intampla, doar in situatia in 
+care observ ca sunteti doritori. 
+
+Mult succes. 
+
+O zi frumoasa,
+Asist. drd. Alexandru DITA  
+
+
+Kristen is a contender for valedictorian of her high school. She wants to know how many students (if any) have scored higher than her in the 
+exams given during this semester.
+
+Create a class named 'Student' with the following specifications:
+ - An instance variable named 'scores' to hold a student's exam scores.
+ - A void input() function that reads 5 floats and saves them to 'scores'.
+ - An float calculateTotalScore() function that returns the sum of the student's scores.
+
+Constraints:
+ -> 1<= n <=100, where n is number of the students;
+ -> 0<= s <= 50, where s is the exam's score; 
+ -> the first line of the n students contains the scores of Kristen. 
+
+Exemple
+
+Input:
+
+n=3 
+vector[0]= 30 40 45 10 10
+vector[1]= 40 40 40 10 10
+vector[2]= 50 20 30 10 10
+
+Output: 1, vector[1] has a score greather then vector[0] - which is Kristen's score
