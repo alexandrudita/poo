@@ -1,0 +1,15 @@
+Tema 3
+
+Sa se defineasca o clasa care sa contina minim 5 atribute: 
+- minim un atribut char*
+- minim un atribut static
+- minim un atribut const
+- minim un atribut de tip float* sau int* sau double* (vector alocat dinamic, NU pointer la double)
+Pentru fiecare clasa sa se implementeze:
+- constructor default 
+- constructor cu toti parametri
+- constructor de copiere
+- operator = 
+- supraincaracare << sau >> (cel putin unul dintre acestia)
+- getter si setter
+- supraincarcarea operatorilor: [], ++ (pre si post), --(pre si post), +=. <,>, ==, >=, <=, !, (), cast, +, - 
