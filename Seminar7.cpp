@@ -26,7 +26,7 @@ public:
 	//operator functie
 	float operator()();
 	//operator index
-	float operator[](int index);
+	float& operator[](int index);
 	//operator negatie
 	bool operator!();
 	//operator == 
