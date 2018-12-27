@@ -1,0 +1,13 @@
+Tema 6
+
+Buna ziua, 
+
+Va atasez o alta tema pe care o puteti lucra pe parcursul vacantei. De asemenea, aceasta nu este obligatorie. 
+In primul seminar dupa vacanta, ma voi uita peste solutiile voastre(daca aveti ceva de aratat).
+
+"Sa se implementeze o solutie C++ care sa gestioneze o gradina zoologica. 
+Pentru rezolvarea problemei se vor utiliza cel putin urmatoarele concepte de POO: abstractizare, mostenire, interfata, clase template, 
+stl-uri"
+
+O zi frumoasa,
+Asist. drd. Alexandru DITA

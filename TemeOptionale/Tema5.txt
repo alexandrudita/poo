@@ -1,0 +1,22 @@
+Teme optionale: 
+
+Buna ziua, 
+
+Mai jos v-am lasat link-ul catre o serie de probleme propuse de platforma hackerRank( va recomand sa mai lucrati aici, 
+va pune la dispozitie o serie de probleme pe care le puteti rezolva in orice limbaj de programare doriti). 
+
+Cine doreste le poate lucra, nu sunt teme obligatorii. Am o singura mentiune, va rog sa utilizati conceptele de POO si limbajul C++ (daca 
+in unele exercitii este specificat sa definiti stuct va rog sa inlocuiti cu class).
+
+https://www.hackerrank.com/challenges/abstract-classes-polymorphism/problem
+https://www.hackerrank.com/challenges/inheritance-introduction/problem
+https://www.hackerrank.com/challenges/hotel-prices/problem
+https://www.hackerrank.com/challenges/rectangle-area/problem
+https://www.hackerrank.com/challenges/cpp-exception-handling/problem
+https://www.hackerrank.com/challenges/cpp-class-template-specialization/problem
+https://www.hackerrank.com/challenges/attending-workshops/problem
+
+Mult spor!!!
+
+O zi frumoasa,
+Asist. drd. Alexandru DITA
